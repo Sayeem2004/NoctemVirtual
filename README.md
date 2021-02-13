@@ -7,3 +7,6 @@
 - https://grader.noctem.dev/  
 ## Scores  
 - 2020 - 50/70 - 3 hours - Maxwell Zen & Mohammad Khan
+## Ownership
+- Files in Problems were not made by me. 
+- Files in Solutions were made by me and friends.
